@@ -1,0 +1,4 @@
+[submodule "sub1"]
+	path = sub1
+	url = ./sub1
+	datalad-id = c7d68911-74c7-4787-a069-ba4da08f1866
